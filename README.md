@@ -1,4 +1,6 @@
 ![aih](https://github.com/user-attachments/assets/8b84b844-56a8-460d-a2dd-d5ddc25342b8)
+![aih1](https://github.com/user-attachments/assets/a7edc990-2cea-4be9-9adf-9261166f27c7)
+
 
 
 # AI Healthcare Assistant & Symptom Triage System
