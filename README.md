@@ -1,3 +1,6 @@
+![aih](https://github.com/user-attachments/assets/8b84b844-56a8-460d-a2dd-d5ddc25342b8)
+
+
 # AI Healthcare Assistant & Symptom Triage System
 
 > **Impact Statement:** This clinical decision support tool reduces patient uncertainty by translating natural language symptoms into structured medical triage recommendations. It leverages Large Language Models (LLMs) to bridge the gap between patient complaints and specialist referrals, aiming to optimize healthcare navigation.
